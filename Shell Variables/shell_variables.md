@@ -23,5 +23,6 @@ $_	- The last argument of the previous command.
 ```
 # Positional Parameter:
 - You write a Unix shell script. While executing the script, you are passing a few command line arguments to the script. These command line arguments are passed with an intention to use them during the execution of the script. we can access those command line arguement with the help of the positional parameters !
+
   ```[root@machine1 /]# sh script.sh param1 param2 param3```
 
