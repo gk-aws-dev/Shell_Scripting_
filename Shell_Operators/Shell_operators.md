@@ -33,10 +33,25 @@ Operator--Meaning--Usage
 
 # String Comparison Operator:
 
-operator      Meaning		    Usage
+Operator--Meaning--Usage
 ```
 ==	  equal to		       [ "$a" == "$b" ]
 !=	  not equal to		   [ "$a != "$b" ]
 -n	  not a null string	 [ -n "$a" ]
 -z 	  null string		     [ -z "$a" ]
+```
+
+# File operators
+Like comparison of integers and strings can be evaluated, the status of any file or directory can also be evaluated in if statements. This is most commonly used when we want to check the existence of files before executing commands on them.
+
+```
+File operators		True if..
+
+-a file		file exists
+-f file		file exists and is a regular file
+-d file		file exists and is a directory
+-r file		file is readable by the current user
+-w file 	file is writable by the current user
+-x file		file is executable by the current user
+-s file		file exists and in non-empty
 ```
