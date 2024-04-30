@@ -1,0 +1,11 @@
+***case statement***
+Syntax for the case statement:
+```
+case <val> in
+choice1) <block of commands>;;
+choice2) <bloc of commands>;;
+.
+.
+*) <block of commands>;;
+esac
+```
