@@ -9,3 +9,15 @@
 2. `The Bourne Shell (sh)` :- It is the original UNIX shell. It is faster and more preferred. It lacks features for interactive use like the ability to recall previous commands.
 3. `The Korn Shell (ksh)`:- is a superset of the Bourne shell.So it supports everything in the Bourne shell.It has interactive features. It includes features like built-in arithmetic and C-like arrays, functions, and string-manipulation facilities.It is faster than C shell. It is compatible with script written for C shell.
 4. `Bourne Again Shell (bash)` :- It is compatible to the Bourne shell. It includes features from Korn and Bourne shell.
+
+- At the start of shell script its recommended to add the shebang  `(#! - shaa-bang)` comment for the user to identify which shell is being used.
+- The operator `#!` known as the shebang operator is used to define the shell in which the script is going to run. 
+- The Shebang for shell script is mostly not necessary when your code is independent of the type of shell, and would run on any type (bash, ksh, csh etc).
+  Eg:- #!/bin/sh  --- for Bourne shell
+       #!/bin/bash -- for Bourne again shell. This indicates the path of the shell
+
+  ```
+  #!/bin/bash
+
+  #write your script here
+  ```
