@@ -1,5 +1,5 @@
 # Arithmetic Operator:
-```
+
 Operator			            Description								                                                  Example
 + (Addition)		    Adds values on either side of the operator				                        `expr $a + $b` will give 30
 - (Subtraction)		  Subtracts right hand operand from left hand operand		                    `expr $a - $b` will give -10
@@ -9,4 +9,3 @@ Operator			            Description								                                      
 = (Assignment)		  Assigns right operand in left operand					                             a = $b would assign value of b into a
 == (Equality)		    Compares two numbers, if both are same then returns true.		               [ $a == $b ] would return false.
 != (Not Equality)	  Compares two numbers, if both are different then returns true.		         [ $a != $b ] would return true.
-```
