@@ -2,7 +2,7 @@
 
 ```Operator			                       Description								                                Example```
 
-```+ (Addition)```--> Adds values on either side of the operator -->   ````expr $a + $b` will give 30```
+```+ (Addition)```--> Adds values on either side of the operator -->   ``` `expr $a + $b` will give 30```
 
 ```- (Subtraction)    --> Subtracts right hand operand from left hand operand -->   `expr $a - $b` will give -10```
 
