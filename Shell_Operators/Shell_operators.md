@@ -31,3 +31,12 @@ Operator--Meaning--Usage
 -le		lesser than or equal to 	  [ $a -le $b ]
 ```
 
+# String Comparison Operator:
+
+operator      Meaning		    Usage
+```
+==	  equal to		       [ "$a" == "$b" ]
+!=	  not equal to		   [ "$a != "$b" ]
+-n	  not a null string	 [ -n "$a" ]
+-z 	  null string		     [ -z "$a" ]
+```
