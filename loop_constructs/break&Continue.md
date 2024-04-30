@@ -5,3 +5,4 @@
 
 - Use ***break statement***, when you need to terminate the execution of the entire loop.
 - Use ***continue statement***, when you need to skip the current iteration but conitnue with the execution of loop from next iteration.
+
