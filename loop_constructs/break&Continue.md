@@ -6,3 +6,18 @@
 - Use ***break statement***, when you need to terminate the execution of the entire loop.
 - Use ***continue statement***, when you need to skip the current iteration but conitnue with the execution of loop from next iteration.
 
+below is the syntax for the break statement.
+
+```
+#!/usr/bin/bash
+
+for val in {1..20..2}
+do
+  If [[ $val -eq 9 ]]
+  then
+     break
+  else
+  echo "printing ${val}"
+fi
+done
+```
