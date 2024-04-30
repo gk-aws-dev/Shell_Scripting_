@@ -7,7 +7,7 @@
   ```export ORACLE_HOME=/app/middleware```
 
 # special variable:
-
+```
 $0	- The filename of the current script.
 $n	- These variables correspond to the arguments with which a script was invoked. Here n is a positive decimal number corresponding to the position of an argument (the first argument is $1, the 
       second argument is $2, and so on).
@@ -18,4 +18,4 @@ $*	- All arguments passed to script or function.|
 $?	- The exit status of the last command executed. (0 is successful and non-zero is unsucceessful)
 $!	- The process ID of the last background command.
 $_	- The last argument of the previous command.
-
+```
