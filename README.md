@@ -1,8 +1,8 @@
 # Shell Scripting:
 
--> The shell is a command line interpreter, it translates the user entered command and converts them into the language which is understood by the kernel.
+- The shell is a command line interpreter, it translates the user entered command and converts them into the language which is understood by the kernel.
 
--> Shell scripting is nothing but the list of commands which are listed in a script in the order of execution.
+- Shell scripting is nothing but the list of commands which are listed in a script in the order of execution.
 # Type of the Shell:
 
 1. `The C shell (csh)`:- It includes helpful programming features like built-in arithmetic and C-like expression syntax.
