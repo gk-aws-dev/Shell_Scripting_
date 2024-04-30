@@ -18,3 +18,16 @@ here a=10 and B=20
 
 ```!= (Not Equality)```--> Compares two numbers, if both are different then returns true.-->```[ $a != $b ] would return true.```
 
+
+# Comparison/ relational operator:
+
+Operator	Meaning				Usage
+```
+-eq		equal to		    [ $a -eq $b ]
+-ne		not equal to		[ $a -ne $b ]
+-gt		greater than		[ $a -gt $b ]
+-ge		greater than or equal to	[ $a -ge $b ]
+-lt		lesser than		  [ $a -lt $b ]
+-le		lesser than or equal to 	[ $a -le $b ]
+```
+
