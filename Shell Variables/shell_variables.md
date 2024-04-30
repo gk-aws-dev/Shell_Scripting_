@@ -1,12 +1,12 @@
 # User defined variables:
 - User defined variable (also called local variables): User defined variables are those variables which are defined by the programmer in script.
 
-# environment variable:
+# Environment variable:
 - The Environment Variables form a simple and effective way to pass information about the current operating environment to the program being executed.
 - Two common examples of Linux environment variables are the $PATH and $HOME variables. We can set env variables using export command.
   ```export ORACLE_HOME=/app/middleware```
 
-# special variable:
+# Special variable:
 ```
 $0	- The filename of the current script.
 $n	- These variables correspond to the arguments with which a script was invoked. Here n is a positive decimal number corresponding to the position of an argument (the first argument is $1, the 
