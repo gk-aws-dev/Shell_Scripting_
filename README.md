@@ -25,4 +25,6 @@
 --> we will learn about the concept of the shell scripting in this project.
 
 
-![shell-script](https://github.com/gk-aws-dev/Shell_Scripting_/assets/154478305/3f932b35-0c76-4c6c-b228-420154fe6eba)
+
+
+![shell-script](https://github.com/gk-aws-dev/Shell_Scripting_/assets/154478305/1ccb912f-a6ad-44ae-9cf3-720e95b2bd75)
