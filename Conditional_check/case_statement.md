@@ -1,4 +1,4 @@
-***case statement***
+***Case Statement***
 
 Syntax for the case statement:
 ```
