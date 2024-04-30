@@ -1,7 +1,7 @@
 # Arithmetic Operator:
 
 Operator			            Description								                                                  Example
-+ (Addition)		    Adds values on either side of the operator				                        `expr $a + $b` will give 30
+- + (Addition)		    Adds values on either side of the operator				                        `expr $a + $b` will give 30
 - (Subtraction)		  Subtracts right hand operand from left hand operand		                    `expr $a - $b` will give -10
 * (Multiplication)	Multiplies values on either side of the operator			                    `expr $a \* $b` will give 200
 / (Division)		    Divides left hand operand by right hand operand				                    `expr $b / $a` will give 2
