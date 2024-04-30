@@ -23,11 +23,11 @@ here a=10 and B=20
 
 Operator	Meaning				Usage
 ```
--eq		equal to		    [ $a -eq $b ]
--ne		not equal to		[ $a -ne $b ]
--gt		greater than		[ $a -gt $b ]
--ge		greater than or equal to	[ $a -ge $b ]
--lt		lesser than		  [ $a -lt $b ]
--le		lesser than or equal to 	[ $a -le $b ]
+-eq		equal to		        [ $a -eq $b ]
+-ne		not equal to		    [ $a -ne $b ]
+-gt		greater than		    [ $a -gt $b ]
+-ge		greater than or equal to	  [ $a -ge $b ]
+-lt		lesser than		      [ $a -lt $b ]
+-le		lesser than or equal to 	  [ $a -le $b ]
 ```
 
