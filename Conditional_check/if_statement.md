@@ -18,6 +18,7 @@ fi
 ***if..else..if**
 
 - when we have more than one condition,then we can use the if..else..if statement.
+- Working:  The test expression is evaluated. If it is true, then the block of commands under ‘then’ is executed. Otherwise, the block of commands under ‘else’ gets executed.
 ```
 if [ expression 1 ]
 then
