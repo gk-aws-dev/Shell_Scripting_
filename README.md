@@ -21,3 +21,5 @@
 
   #write your script here
   ```
+
+--> we will learn about the concept of the shell scripting in this project.
