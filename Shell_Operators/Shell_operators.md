@@ -21,7 +21,7 @@ here a=10 and B=20
 
 # Comparison/ relational operator:
 
-Operator	Meaning				Usage
+Operator--Meaning--Usage
 ```
 -eq		equal to		        [ $a -eq $b ]
 -ne		not equal to		    [ $a -ne $b ]
