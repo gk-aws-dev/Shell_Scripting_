@@ -3,7 +3,9 @@
 - In common programming, iterative constructs are used to repeat a the execution of a part of code. In bash shell scripting, there are three types of loop constructs available.
 
 1.for loop
+
 2.while loop
+
 3.until loop
 
 ***For Loop***
