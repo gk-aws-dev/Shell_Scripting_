@@ -6,3 +6,11 @@ Unix Shell supports following forms of if…else statement −
 - if...else...fi statement
 - if...elif...else...fi statement
 
+```
+if  control command
+then
+  <commands>
+else
+  <commands>
+fi
+```
